@@ -1,5 +1,5 @@
 # Swiftly
-**Swiftly is a real-time freelancing platform designed to solve the problems faced by freelancers in Pakistan. Unlike traditional platforms (Fiverr, Upwork) that rely on long bidding cycles, Swiftly instantly connects clients and freelancers using a real-time matching and negotiation model inspired by InDrive and Bykea.
+#Swiftly is a real-time freelancing platform designed to solve the problems faced by freelancers in Pakistan. Unlike traditional platforms (Fiverr, Upwork) that rely on long bidding cycles, Swiftly instantly connects clients and freelancers using a real-time matching and negotiation model inspired by InDrive and Bykea.
 
 The platform focuses on:
 
